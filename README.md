@@ -1,9 +1,15 @@
-# Fabric Example Mod
+# skid of RTTV translator mod
 
-## Setup
+less lines of code
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+works worse probably
 
-## License
+at least there's a release
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+srry for my laziness
+
+all it does is make text in minecraft binary
+
+i don't know why you would want this
+
+goodbye
